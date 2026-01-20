@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f00acc4-8769-4a7a-98ba-24e0e01b663d" name="Changes" comment="added firstpush.txt">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstfolder/example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstfolder/firstexample.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstfolder/secondexample.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/importantfile.md" beforeDir="false" afterPath="$PROJECT_DIR$/importantfile.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +73,7 @@
       <updated>1768610421880</updated>
       <workItem from="1768610422961" duration="1522000" />
       <workItem from="1768916208531" duration="961000" />
+      <workItem from="1768918244365" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="added firstpush.txt">
       <option name="closed" value="true" />
